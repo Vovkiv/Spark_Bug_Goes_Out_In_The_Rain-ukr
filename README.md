@@ -1,2 +1,19 @@
-# Spark_Bug_Goes_Out_In_The_Rain-ukr
-Spark Bug, a steampunky earth pony mechanic, attempts to salvage her machines from a house facing imminent flooding, in a world that won't stop raining. During this time, she forms a bond with her creations. Out here, it's just Spark Bug, her machines, and the rain.
+# Спарк Баг під дощем - Українською
+![обкладинка](https://github.com/Vovkiv/Spark_Bug_Goes_Out_In_The_Rain-ukr/blob/main/src/cover%20-%20ukr.png?raw=true)
+
+Спарк Баг, земна поні, стімпанк і механік, намагається врятувати свої пристрої та винаходити із будинку, який затоплювався водою, у світі, де ніколи не припиняють йти дощі. Під час цього, вона формує зв’язок зі своїми винаходами, наче вони були її сім’єю, друзями. Тут лише Спарк Баг, її винаходи та дощ.
+#
+Якщо помітили очепятку, погано перекладений шмат тексту, є якісь побажання?
+Тоді ви можете написати мені!
+
+Ось контакти: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
+
+#
+Original fic: https://www.fimfiction.net/story/537536/spark-bug-goes-out-in-the-rain
+
+#
+Original cover: https://derpibooru.org/images/3149293
+
+# 
+Слідкувати за процесом перекладу можна тут:
+https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
