@@ -1,9 +1,10 @@
 # Спарк Баг під дощем - Українською
-![обкладинка](https://github.com/Vovkiv/Spark_Bug_Goes_Out_In_The_Rain-ukr/blob/main/src/cover%20-%20ukr.png?raw=true)
+![обкладинка](src/cover%20-%20ukr.png)
 
 Спарк Баг, земна поні, стімпанк і механік, намагається врятувати свої пристрої та винаходити із будинку, який затоплювався водою, у світі, де ніколи не припиняють йти дощі. Під час цього, вона формує зв’язок зі своїми винаходами, наче вони були її сім’єю, друзями. Тут лише Спарк Баг, її винаходи та дощ.
 
 # Як відкрити? Де фанфік?
+
 [пдф файл](Spark%20Bug%20goes%20out%20in%20the%20rain%20-%20Ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
@@ -29,13 +30,15 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/537536/spark-bug-goes-out-in-the-rain
+
+[https://www.fimfiction.net/story/537536/spark-bug-goes-out-in-the-rain](https://www.fimfiction.net/story/537536/spark-bug-goes-out-in-the-rain)
 
 # Original cover:
-https://derpibooru.org/images/3149293
+
+[https://derpibooru.org/images/3149293](https://derpibooru.org/images/3149293)
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
+[https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate)
 
 # Гітхаб теги:
 translation fanfiction mlp ukrainian volkov
